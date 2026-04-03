@@ -1,0 +1,5 @@
+{
+  "name": "WaBlast - Bulk Sender",
+  "description": "A WhatsApp marketing tool to manage contacts, draft messages with AI, and send bulk campaigns via WhatsApp Web.",
+  "requestFramePermissions": []
+}
